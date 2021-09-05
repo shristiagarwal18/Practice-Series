@@ -29,3 +29,9 @@ Please help Chef find this number.\
 1 ≤ n ≤ 50 \
 1 ≤ Ai ≤ 109 \
 A1 * A2 * ... * An ≤ 109
+
+❓Question 4: How many Topics\
+➡There are N topics to cover and the ith topic takes Hi hours to prepare (where 1≤i≤N). You have only M days left to prepare, and you want to utilise this time wisely. You know that you can't spend more than S hours in a day preparing, as you get tired after that. You don't want to study more than one topic in a day, and also, don't want to spend more than two days on any topic, as you feel that this is inefficient.\
+Can you find the maximum number of topics you can prepare, if you choose the topics wisely? \
+➡Input: First line will contain T, number of testcases. Then the testcases follow. The first line of each test case contains three space-separated integers: N, M and S, denoting the number of topics, the number of days remaining and the number of hours you can study in a day. The second line of each test case contains N space-separated integers Hi, denoting the number of hours needed to prepare for the ith topic.\
+➡Output: For each testcase, output in a single line: the maximum number of topics you can prepare.
